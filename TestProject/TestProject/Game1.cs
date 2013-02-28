@@ -81,7 +81,7 @@ namespace TestProject
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.Bisque);
+            GraphicsDevice.Clear(Color.AliceBlue);
 
             // TODO: Add your drawing code here
 
